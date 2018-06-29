@@ -2,6 +2,6 @@
 ---
 
 ### ApiaristMap
-- [Privacy Policy](/privacy/apiarist-map)
+- [Privacy Policy](privacy/apiarist-map)
 
 
