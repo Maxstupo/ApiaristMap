@@ -2,6 +2,6 @@
 ---
 
 ### ApiaristMap
-- [Privacy Policy](privacy/apiarist-map)
+- [Privacy Policy](https://maxstupo.github.io/app-policies/privacy/apiarist-map)
 
 
